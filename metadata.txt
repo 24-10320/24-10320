@@ -1,0 +1,5 @@
+
+
+
+Modelo: Gemini 3 Flash.
+Uso: Para la adaptación de la recursión.
