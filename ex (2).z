@@ -6,3 +6,6 @@ Z => Z => Z or := fn(Z 2) -> fn(Z 4) -> if(2, 1, 4);
 
 Z => Z => Z de_morgan1 := fn(Z 2) -> fn(Z 4) -> or(not(2))(not(4));
 Z => Z => Z de_morgan2 := fn(Z 2) -> fn(Z 4) -> and(not(2))(not(4));
+
+
+Z => Z succ := fn(Z z) -> sub(-1)(z);
